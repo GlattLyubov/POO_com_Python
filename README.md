@@ -16,10 +16,6 @@ Criei alguns projetos com Java, onde tive a oportunidade de me aprofundar em Pro
 - Estruturas de decisão (if/else)
 - Estruturas de repetição (while)
 
-# Tecnologias 
-- Python
-- VS Code
-
 # RESUMO
 Este projeto é uma melhoria de um código que criei que era apenas um "linhão" que executa o código todo de uma vez. Agora, criei um sistema de classes onde cada arquivo tem uma responsabilidade. No início tudo estava amontoado. Agora eu entendo como o Python gerencia módulos e como importar funcionalidades de outros arquivos sem crair bagunça. No antigo código (que era o "passagem.py" e "passagem2.py") o main precisava saber como criar a dataclass, como sortear a poltrona e como formatar a data. Agora, no main principal, ele apenas diz processar_compra() e confia que o módulo de cálculo fará o trabalho. No projeto, eu saí de um modelo onde as cidades eram fixas no while para um modelo onde a classe Cidade gerencia sua prórpia lista e o enumerate faz o trabalho visual.  
 
