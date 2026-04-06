@@ -16,7 +16,7 @@ Criei alguns projetos com Java, onde tive a oportunidade de me aprofundar em Pro
 - Estruturas de decisão (if/else)
 - Estruturas de repetição (while)
 
-# Tecnologias utilizadas
+# Tecnologias 
 - Python
 - VS Code
 
